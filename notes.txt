@@ -1,0 +1,10 @@
+Abstractive QA source
+https://huggingface.co/tuner007/t5_abs_qa
+
+T5 model Hugging face
+https://huggingface.co/docs/transformers/model_doc/t5
+
+protobuf 3.20.3
+tf, pytorch, pip install --no-cache-dir transformers sentencepiece
+
+sample text = In early 2000s no one would have thou
