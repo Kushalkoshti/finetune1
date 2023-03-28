@@ -7,4 +7,8 @@ https://huggingface.co/docs/transformers/model_doc/t5
 protobuf 3.20.3
 tf, pytorch, pip install --no-cache-dir transformers sentencepiece
 
-sample text = In early 2000s no one would have thou
+python3.8.10, tf, pyt, transformers
+
+https://github.com/tuner007?tab=repositories
+
+Labeling PDFs
