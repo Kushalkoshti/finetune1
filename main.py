@@ -18,4 +18,3 @@ context = "The purpose of this research is to explore the relationship between s
 question = "What did the finding showed?"
 out = get_answer(question, context)
 print(out)
-# output: 'It is a hall of worship ruled by Odin.'
