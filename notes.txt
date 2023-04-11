@@ -4,11 +4,13 @@ https://huggingface.co/tuner007/t5_abs_qa
 T5 model Hugging face
 https://huggingface.co/docs/transformers/model_doc/t5
 
-protobuf 3.20.3
-tf, pytorch, pip install --no-cache-dir transformers sentencepiece
-
-python3.8.10, tf, pyt, transformers
-
 https://github.com/tuner007?tab=repositories
 
-Labeling PDFs
+Create Requirements.txt file
+https://stackoverflow.com/questions/31684375/automatically-create-requirements-txt
+
+PDF to TEXT 
+https://pypi.org/project/PyPDF2/
+
+protobuf 3.20.3
+tf, pytorch, pip install --no-cache-dir transformers sentencepiece
